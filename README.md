@@ -37,7 +37,7 @@ tradução (`.pak`, `.utoc` e `.ucas`) e um guia `LEIA-ME.txt`. Como instalar: v
 
 | Parte | Cobertura |
 |---|---|
-| História (8 capítulos), cenas, legendas das cenas em vídeo, conversas do grupo e eventos de personagem | 100% |
+| História completa, cenas, legendas das cenas em vídeo, conversas do grupo e eventos de personagem | 100% |
 | Missões secundárias e extras, diário, lendas das Visões e espers | 100% |
 | Menus, opções, batalha, magias, habilidades, itens, equipamentos, monstros e lugares | 100% |
 | Letreiros da batalha (ATORDOADO, ATORDOAMENTO TOTAL, Disparo Arriscado, IGNIÇÃO!) | imagens traduzidas |
